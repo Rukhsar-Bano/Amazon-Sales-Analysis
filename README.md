@@ -73,5 +73,7 @@ This project analyzes **Amazon e-commerce sales data** to understand **how disco
 📌"Samsung Galaxy M13 5G (Aqua Green, 6GB, 128GB)" → ⭐ 3
 
 ### 🔹 **7️⃣ Identify the top 5 users who have given the most reviews?
-- **Result:** 
+- **Result:** ✔ "Identified the top 5 users who have given the most reviews. The most active reviewer (User ID: 1048) has written 10 reviews."
+✔ "Most top reviewers have written between 7-10 reviews, indicating that only a small percentage of users contribute multiple reviews."
+✔ "Understanding frequent reviewers can help in detecting spam reviews and analyzing customer engagement."
 
